@@ -1,7 +1,7 @@
 h1 {
   color: red;
   text-align: center;
-	font-size: 250px;
+	font-size: 25px;
 }
 
 h2 {
@@ -11,12 +11,13 @@ h2 {
 	font-size: 14 px;
 }
 body { 
+	background-color: yellowgreen;
 	line-height: 2.5;
 	font-weight: normal;
+	font-family: "Comic Sans MS", "Comic Sans";
 	font-size: medium;
 	text-align: center;
 	font-style: oblique;
-	font: 75% georgia, sans-serif;
 	color: green; 
 	margin: 0; 
 	padding: 0;
@@ -29,4 +30,8 @@ p {
 ul {
   font-size: 40px;
   line-height: 30px;
+}
+img {
+	width: 600px;
+	height: 600px;
 }
